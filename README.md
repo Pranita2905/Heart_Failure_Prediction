@@ -161,6 +161,7 @@ The application is deployed using Render.
 ## 👩‍💻 Author
 
 **Pranita Mothe**
+
 *mothepranita@gmail.com
 Data Analyst | Machine Learning Enthusiast
 
