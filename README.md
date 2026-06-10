@@ -7,7 +7,7 @@ This application assists healthcare professionals and researchers in identifying
 
 ---
 ## 🌐 Live Demo
-[Live Application] (https://heart-failure-prediction-ka7p.onrender.com)
+[Live Application](https://heart-failure-prediction-ka7p.onrender.com)
 
 ---
 ## 🎯 Objectives
